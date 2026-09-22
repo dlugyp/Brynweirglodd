@@ -1,2 +1,5 @@
 .DS_Store
 Thumbs.db
+
+# Full-res original photo (2.7 MB, may contain EXIF/GPS metadata) — kept on disk, not published
+images/IMG_3059.jpeg
